@@ -81,6 +81,3 @@ Other        1 hr            ██░░░░░░░░░░░░░░░
 
 
 </details>
-
-
-# rizqiirkhamm
