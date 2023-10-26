@@ -6,7 +6,7 @@ I'm Rizqi Irkham a Full Stack Web Developer and Content Creator on [Tiktok](http
 
 :mailbox: Reach me out!
 
-  [![Linkedin Badge](https://img.shields.io/badge/-Rizqi&nbsp;Irkham&nbsp;Maulana-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rizqi-irkham-maulana-4a9690247/) [![Mail Badge](https://img.shields.io/badge/-@Rizqiirkhamm-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/islempenywis) [![Mail Badge](https://img.shields.io/badge/-rizqiirkhammaulana-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:islempenywis@gmail.com)
+  [![Linkedin Badge](https://img.shields.io/badge/-Rizqi&nbsp;Irkham&nbsp;Maulana-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rizqi-irkham-maulana-4a9690247/) [![Mail Badge](https://img.shields.io/badge/-@Rizqiirkhamm-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/rizqiirkhamm) [![Mail Badge](https://img.shields.io/badge/-rizqiirkhammaulana-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:rizqiirkhammaulana@gmail.com)
 
 
 
@@ -15,10 +15,10 @@ I'm Rizqi Irkham a Full Stack Web Developer and Content Creator on [Tiktok](http
 
 ### What I currently Do
 
-- 🔭 I’m currently school at SMK IDN Boarding School
-- 🤔 I’m looking for Community programmer
+- 🔭 I’m currently school at SMK IDN Boarding School.
+- 🤔 I’m looking for Community programmer.
 - 📫 How to reach me: rizqiirkhammaulana@gmail.com.
-- ⚡ Fun fact: I play games and go to the GYM very often.
+- ⚡ Fun fact: I play games and go to the GYM or Workout very often.
 
 #### Top Technologies
 
